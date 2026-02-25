@@ -1,0 +1,5 @@
+Enter the long integer N: 
+Long integer Input: 35178452718232
+Enter single digit D: 
+Digit Input: 2
+Occurrences of 2 = 3

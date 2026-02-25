@@ -1,0 +1,23 @@
+Enter number of elements: 
+Array size: 9
+Enter element 0: 
+Enter element 1: 
+Enter element 2: 
+Enter element 3: 
+Enter element 4: 
+Enter element 5: 
+Enter element 6: 
+Enter element 7: 
+Enter element 8: 
+You entered: 
+8 
+2 
+4 
+5 
+6 
+7 
+8 
+9 
+3 
+
+Sum of even numbers = 28
