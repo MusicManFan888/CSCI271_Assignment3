@@ -1,0 +1,19 @@
+Enter number of elements: 
+Size is: 8
+Enter element 0: 
+Element entered: 0
+Enter element 1: 
+Element entered: 2
+Enter element 2: 
+Element entered: 2
+Enter element 3: 
+Element entered: 2
+Enter element 4: 
+Element entered: 2
+Enter element 5: 
+Element entered: 2
+Enter element 6: 
+Element entered: 2
+Enter element 7: 
+Element entered: 2
+Maximum = 99

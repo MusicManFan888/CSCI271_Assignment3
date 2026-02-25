@@ -1,0 +1,3 @@
+Enter string: String Input: stringaling
+Enter character: Character Input: g
+Occurrences = 2
