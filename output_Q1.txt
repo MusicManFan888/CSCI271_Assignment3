@@ -1,0 +1,2 @@
+String Input: World I say hello
+Length = 17

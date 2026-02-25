@@ -39,8 +39,9 @@ public class CSCI271_Assignment3_MasonSnyder_1
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in); // Keyboard input reader
-        System.out.print("Enter a string: ");
-        String S = input.nextLine(); // User string
+
+        String S = input.nextLine(); // User string, displayed in next line
+	System.out.println("String Input: " + S);
 
         int length = recursiveLength(S); // Length result and display
         System.out.println("Length = " + length);
